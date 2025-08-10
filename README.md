@@ -80,5 +80,5 @@ This project is licensed under the MIT License — you are free to use and modif
 ---
 
 **👤 Author:** *Vinay Tiwari*  
-📧 Email: *your.email@example.com*  
-🔗 GitHub: [Your GitHub Profile](https://github.com/yourusername)  
+📧 Email: *vt39091@gmail.com*  
+🔗 GitHub: https://github.com/Vinaytiwari25  
