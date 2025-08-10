@@ -26,7 +26,7 @@ It is designed to demonstrate **database design, SQL queries, stored procedures,
 ## 📂 Project Structure
 | File Name | Description |
 |-----------|-------------|
-| `hospital_project_extended.sql` | Full SQL script (tables, data, procedures, triggers, views, queries) |
+| `Hospital_Project.sql` | Full SQL script (tables, data, procedures, triggers, views, queries) |
 | `hospital_er_diagram.png` | ER diagram image |
 | `README.md` | Project documentation |
 
@@ -41,7 +41,7 @@ It is designed to demonstrate **database design, SQL queries, stored procedures,
 1. Install **MySQL Server** and open **MySQL Workbench** (or CLI).
 2. Create the database and run the SQL script:
    ```sql
-   SOURCE /path/to/hospital_project_extended.sql;
+   SOURCE /path/to/Hospital_Project.sql;
    ```
 3. Explore the database:
    - List all tables:
